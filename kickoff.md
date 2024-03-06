@@ -34,4 +34,3 @@ Here we discuss educational environments that might make use of in-engine ML com
 1. Analyze user eye data (focused, bored): I see you are too focus, keep thinking. I see you are bored, let us try another topic? Give use multiple topics, puzzles, analyze user data (how confused they are, analyze eye data) and see which topic he likes more (since some people do not really know what they like). 
 2. Continuing with previous example, the game can adapt based on user behavioral data to give different problems/easier problems. E.g. the size of the hole where you put an object gets bigger. Or if the person takes too many tries, you remove some components that make the game difficult.
 3. Narator talks about something. If user frowns, narator says: "Oh, I see you are confused. Let me explain it in more detail.".
-4. P#rn: based on eye data, can feed more of the places where a person looks at, switch camera, change avatars: prefered body types, voice.
