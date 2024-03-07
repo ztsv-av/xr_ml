@@ -22,7 +22,7 @@ Reinforcement learning - where agents learn through trial and error by receiving
 ### Details
 
 - Agent Training: Using a Python API, you can connect your VR environment to external training tools and libraries like TensorFlow or PyTorch. This allows you to train agents using various RL algorithms, including Deep Q-Learning and Proximal Policy Optimization (PPO).
-- Agent Deployment: Once trained, the learned agent model can be embedded back into your VR project
+- Agent Deployment: Once trained, the learned agent model can be embedded back into your VR project.
 
 ## Unreal Engine - Learning Agents
 
