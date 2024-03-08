@@ -95,3 +95,66 @@ Here we discuss educational environments that might make use of in-engine ML com
 3. Narator talks about something. If user frowns, narator says: "Oh, I see you are confused. Let me explain it in more detail.".
 
 maybe train multiple NNs, which are different in difficulty and use behavioral tree to then choose one based on the user actions?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Result
+
+arithmetic memory stuff
+simple but physologically grounded
+some reward function, agent - environemnt, action - highlighting, removing items, auditory ques, ambience (directional audio), 
+
+justification of vr: full control of the environment.
+thus user can be stationary.
+if you remember a number, you can move X times, or grab an object you can move X times
+
+think about the vr games (memory games) simple
+
+wall grid offset max 10
+
+presentation on games.
+training != education
+
+learning refer to ML-Agents stuff
+
+locate and memorize
+brain training
+doctor kawachime
